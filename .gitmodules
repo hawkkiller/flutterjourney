@@ -1,0 +1,3 @@
+[submodule "themes/golearn"]
+	path = themes/golearn
+	url = https://github.com/hawkkiller/golearn.git
