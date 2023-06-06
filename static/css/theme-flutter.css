@@ -177,6 +177,8 @@ a:hover {
   flex-direction: row;
   align-items: center;
   justify-content: center;
+  min-width: 100%;
+  margin-bottom: 16px;
 
   .logo-name {
     margin: 0 !important;
