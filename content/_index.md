@@ -2,7 +2,7 @@
 
 Flutter is a dynamic and powerful framework created by Google for building natively compiled applications for mobile, web, and desktop from a single codebase. Its popularity has grown rapidly since its first release in 2017, and it has become a beloved tool for developers worldwide.
 
-Our Flutter Journey is designed to guide you through your journey in learning Flutter, from the basics to more advanced topics. Whether you're a beginner who's never written a line of code or a seasoned developer looking to explore a new framework, Flutter Journey is for you. 
+Our Flutter Journey is designed to guide you through your journey in learning Flutter, from the basics to more advanced topics. Whether you're a beginner who's never written a line of code or a seasoned developer looking to explore a new framework, Flutter Journey is for you.
 
 ## Why Flutter?
 
