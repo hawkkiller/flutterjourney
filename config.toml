@@ -10,7 +10,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   editURL = "https://github.com/hawkkiller/flutterjourney/edit/master/content/"
-  description = "Documentation for GoLearn Theme"
+  description = "Flutter Journey"
   author = "Michael Lazebny"
   showVisitedLinks = false
   disableBreadcrumb = false
@@ -28,7 +28,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
 [Languages.en]
-title = "GoLearn Docs"
+title = "Flutter Journey"
 weight = 1
 languageName = "English"
 landingPageURL = "/"
