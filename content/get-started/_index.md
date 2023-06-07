@@ -1,12 +1,10 @@
 ---
-title: Getting Started
-weight: 5
+title: Get Started
+weight: 1
 pre: "<b>1. </b>"
 chapter: true
 ---
 
-### Chapter 1
+# Get Started
 
-# Basics
-
-Discover what this Hugo theme is all about and the core-concepts behind it.
+I strongly suggest to head over to the official Flutter documentation and follow the instructions [there](https://flutter.dev/docs/get-started/install).
